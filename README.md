@@ -8,3 +8,6 @@ Golang Practice Sample Code
 
 > https://github.com/avelino/awesome-go
 
+#### Learning Resource
+> https://github.com/dariubs/GoBooks
+> https://github.com/kylesliu/awesome-golang-algorithm
