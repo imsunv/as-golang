@@ -1,7 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	util "github.com/imsunv/as-golang/helloworld/util"
+)
 
 func main() {
-	fmt.Println("Hello World")
+	if util.IsRight() {
+		fmt.Println(MustSamePackageInSameDirectory())
+	}
+
+	fmt.Println(util.Echo("Hello World"))
 }
