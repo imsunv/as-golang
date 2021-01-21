@@ -15,6 +15,9 @@ func main() {
 		return key + " _aa"
 	}
 
+	//l := []int{1, 2, 3}
+	//fmt.Println(l[4])
+
 	// nil 不能当key
 	//m[nil] = "a"
 	//m["nil"] = nil
